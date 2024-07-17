@@ -2,7 +2,7 @@
 # Student Record System
 
 ## Overview
-The Student Record System is a Java-based application designed to manage student records efficiently. This system allows administrators to perform various tasks related to student information management.
+The Student Record System is a Java-based application designed to manage student records efficiently. This system allows administrators to perform various tasks related to student information management. In the proposed system the administrator can easily add new records, view modify, and delete student records. This project will help to smooth the process of student details management.
 
 ## Features
 - **Add and Remove Students**: Easily add new students to the system or remove existing ones.
@@ -34,7 +34,7 @@ To run the Student Record System locally, follow these steps:
    - OS-Windows
    - Hard Disk-100GB (minimum)
    - RAM-4GB (minimum)
-   - 
+
 ## Usage
 ```bash
 # Example usage commands or steps
