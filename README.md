@@ -28,10 +28,14 @@ To run the Student Record System locally, follow these steps:
 3. **Dependencies**:
    - This project requires Java Development Kit (JDK) version X or above.
    - Any additional libraries or dependencies should be listed here.
+  
 
+4. **Hardware Requirement**:
+   - OS-Windows
+   - Hard Disk-100GB (minimum)
+   - RAM-4GB (minimum)
+   - 
 ## Usage
-Describe how to use your application. Provide examples or screenshots if possible. For example:
-
 ```bash
 # Example usage commands or steps
 java Main addStudent Raman 2023
